@@ -8,4 +8,4 @@ Resources:
       Code: src/lambda.zip
       MemorySize: 128
       Timeout: 3
-      Role: put-arn-for-your-lambda-iam-role-here
+      Role: arn:aws:iam::455166022519:role/S3toRDSLambda
